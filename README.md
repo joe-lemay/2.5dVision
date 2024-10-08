@@ -1,12 +1,12 @@
 <br />
 <p><h1>2.5D Vision</h1></p>
 <div align="center">
-<img src="gifs/ray1.PNG" width="500px" >
+<img src="gifs/rays1.gif" width="500px" >
 <br/>
 
 <p align="center">
     Just a fun experiment I did while reading The Nature of Code. It uses an array of rays to determine how to draw the screen below. Works similiar to how early games worked like Doom or Duke Nukem </p>
-<img src="gifs/rays2.PNG" width="500px" >
+<img src="gifs/rays2.gif" width="500px" >
 </div>
 
 <!-- ABOUT THE PROJECT -->
